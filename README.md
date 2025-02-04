@@ -101,7 +101,7 @@ spring.config.import: optional:file:.env[.properties]
     - **Request Body:**
       ```json
       {
-        "email": "ergule18@gmail.com",
+        "email": "test_email",
         "password": "SecurePassword123!"
       }
       ```
