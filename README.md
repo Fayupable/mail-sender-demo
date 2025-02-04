@@ -1,4 +1,3 @@
-```markdown
 # Mail Sender Demo
 
 This is a demo project for sending emails using Spring Boot. The project includes user authentication and email verification functionalities.
