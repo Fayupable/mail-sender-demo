@@ -167,7 +167,7 @@ spring.config.import: optional:file:.env[.properties]
     - **Request Body:**
       ```json
       {
-        "email": "ergule18@gmail.com",
+        "email": "test_email",
         "verificationCode": "177740"
       }
       ```
@@ -176,7 +176,7 @@ spring.config.import: optional:file:.env[.properties]
     - **Request Body:**
       ```json
       {
-        "email": "ergule18@gmail.com"
+        "email": "test_email"
       }
       ```
 
